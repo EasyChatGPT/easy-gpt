@@ -66,6 +66,9 @@ Easy-GPT智能AI平台（https://www.easy-chat-gpt.com）是一款集成多模�
 - 支持首尾关键帧控制
 - 智能补间动画生成
 
+### 八、AI PPT生成
+- 文本驱动PPT生成
+
 ## 用户服务支持
 
 1. **会员中心**
