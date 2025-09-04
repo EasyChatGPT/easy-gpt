@@ -68,6 +68,7 @@ Easy-GPT智能AI平台（https://www.easy-chat-gpt.com）是一款集成多模�
 
 ### 八、AI PPT生成
 - 文本驱动PPT生成
+- 基于PDF文件内容生成PPT
 
 ## 用户服务支持
 
